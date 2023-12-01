@@ -109,7 +109,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
-                        android:text="Second Item"
+                        android:text="Third Item"
                         android:textColor="@color/black"
                         android:textSize="16dp" />
 
