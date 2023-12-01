@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510524186158",
+    "project_id": "ecommerce-application-25cc5",
+    "storage_bucket": "ecommerce-application-25cc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510524186158:android:b79c76bf0a50a8a626c9bf",
+        "android_client_info": {
+          "package_name": "com.mca.ecommerceapplicationfinal.vansh.ui.home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAThXZti7xxvhiNfwBwbPr0tQRokwAXV8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
